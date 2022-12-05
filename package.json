@@ -1,0 +1,27 @@
+{
+  "name": "letschatapplication",
+  "version": "1.0.0",
+  "description": "a chatting application with cool features",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ephantuz/let-s-chat-API.git"
+  },
+  "author": "ephantus Mwangi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Ephantuz/let-s-chat-API/issues"
+  },
+  "homepage": "https://github.com/Ephantuz/let-s-chat-API#readme",
+  "dependencies": {
+    "colors": "^1.4.0",
+    "dotenv": "^16.0.3",
+    "express": "^4.18.2",
+    "express-async-handler": "^1.2.0",
+    "jsonwebtoken": "^8.5.1",
+    "mongoose": "^6.7.5"
+  }
+}
